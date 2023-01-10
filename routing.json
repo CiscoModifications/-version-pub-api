@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ciscobotliftime",
+    "productId": "16731345983793BD2TQOxApTc6I",
+    "useCloud": true
+  },
+  {
+    "name": "ciscobot",
+    "productId": "16731345983793BD2TQOxApTc6I",
+    "useCloud": true
+  },
+  {
+    "name": "imageengine",
+    "productId": "1673135786023hMhhWyba4tNzNA",
+    "useCloud": true
+  },
+  {
+    "name": "portfolio",
+    "productId": "1673136744859QB2FSWBnPJXb8B",
+    "useCloud": true
+  }
+]
