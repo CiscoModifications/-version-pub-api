@@ -10,6 +10,16 @@
     "useCloud": true
   },
   {
+    "name": "TrafficAdjustor",
+    "productId": "1",
+    "useCloud": true
+  },
+  {
+    "name": "CMInteractionMenu",
+    "productId": "5",
+    "useCloud": true
+  },
+  {
     "name": "imageengine",
     "productId": "1673135786023hMhhWyba4tNzNA",
     "useCloud": true
